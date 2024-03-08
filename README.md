@@ -1,1 +1,7 @@
-# waste-management
+# waste-management\
+144
+DOMESTIC WASTE MANAGEMENT
+VISHAL KUMAR
+KARTHIKEYA
+MAHENDRA
+SWAROOP
